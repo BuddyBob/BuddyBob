@@ -1,4 +1,7 @@
 <h1>👋 My name is BuddyBob </h1> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddyBob&show_icons=true&theme=dracula)
+
 <h3> I can jump higher than you 
 <br>
 <br>
