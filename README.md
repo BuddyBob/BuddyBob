@@ -1,4 +1,4 @@
-<h1>👋 My name is BuddyBob </h1> 
+<h1>👋 My name is Thavas Antonio </h1> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddyBob&show_icons=true&theme=dracula)
 
