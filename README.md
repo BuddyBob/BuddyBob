@@ -11,7 +11,7 @@ I recently Graduated from kindergarden 🎓
 I like pythons 🐍 (python) and tea  ☕ (Java) and tea + script (Javascript)
 <br>
 <br>
-HTML & CSS are for noobs
+HTML & CSS IS ANNOYING!
 <br>
 </h3>
 I'm also addicted to helping people on stackoverflow
