@@ -5,13 +5,7 @@
 <h3> I can jump higher than you 
 <br>
 <br>
-I recently Graduated from kindergarden 🎓
-<br>
-<br>
 I like pythons 🐍 (python) and tea  ☕ (Java) and tea + script (Javascript)
-<br>
-<br>
-HTML & CSS IS ANNOYING!
 <br>
 </h3>
 I'm also addicted to helping people on stackoverflow
