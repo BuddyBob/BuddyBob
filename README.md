@@ -9,8 +9,15 @@ I like pythons 🐍 (python) and tea  ☕ (Java) and tea + script (Javascript)
 <br>
 </h3>
 I'm also addicted to helping people on stackoverflow
-
+<br/>
+<br/>
 <a href="https://stackoverflow.com/users/14222251/buddybob"><img src="https://stackoverflow.com/users/flair/14222251.png" width="208" height="58" alt="profile for BuddyBob at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for BuddyBob at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<br/>
+<br/>
+My Website
+
+<a href="thavasantonio.com">thavasantonio.com<a/>
+
 
 <h2> Advertisements </h2>
 My amazing homework bots 
@@ -18,6 +25,14 @@ My amazing homework bots
 https://github.com/BuddyBob/MathleticsBot
 <br>
 https://github.com/BuddyBob/Vocabulary.com-AutoBot
+  
+Typing Website
+
+https://quick-type.herokuapp.com/#/
+  
+Fundl (wordle but better)
+
+https://fundl.herokuapp.com/
 
 
 <!---
