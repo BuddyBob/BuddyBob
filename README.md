@@ -19,20 +19,6 @@ My Website
 <a target="_blank" href="https://www.thavasantonio.com">thavasantonio.com<a/>
 
 
-<h2> Advertisements </h2>
-My amazing homework bots 
-
-https://github.com/BuddyBob/MathleticsBot
-<br>
-https://github.com/BuddyBob/Vocabulary.com-AutoBot
-  
-Typing Website
-
-https://quick-type.herokuapp.com/#/
-  
-Fundl (wordle but better)
-
-https://fundl.herokuapp.com/
 
 
 <!---
