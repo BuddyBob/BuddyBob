@@ -1,22 +1,5 @@
-<h1>👋 My name is Thavas Antonio </h1> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddyBob&show_icons=true&theme=dracula)
-
-<h3> I can jump higher than you 
-<br>
-<br>
-I like pythons 🐍 (python) and tea  ☕ (Java) and tea + script (Javascript)
-<br>
-</h3>
-I'm also addicted to helping people on stackoverflow
-<br/>
-<br/>
-<a href="https://stackoverflow.com/users/14222251/buddybob"><img src="https://stackoverflow.com/users/flair/14222251.png" width="208" height="58" alt="profile for BuddyBob at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for BuddyBob at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<br/>
-<br/>
-My Website
-
-<a target="_blank" href="https://www.thavasantonio.com">thavasantonio.com<a/>
 
 
 
